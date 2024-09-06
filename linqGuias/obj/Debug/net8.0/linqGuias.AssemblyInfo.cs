@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("linqGuias")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cb6f7df91ef60d2c8646d74fad9049804bc232f")]
 [assembly: System.Reflection.AssemblyProductAttribute("linqGuias")]
 [assembly: System.Reflection.AssemblyTitleAttribute("linqGuias")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
